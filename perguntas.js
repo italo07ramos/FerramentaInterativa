@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Historia',
+    'Em que ano ocorreu a primeira revolução industrial?',
+    'A Primeira Revolução Industrial ocorreu na Inglaterra por volta de 1760 até 1850'
 )
 
 criaCartao(
